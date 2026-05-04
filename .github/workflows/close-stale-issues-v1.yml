@@ -1,0 +1,16 @@
+name: 'Close stale issues and PRs'
+
+on:
+  workflow_call:
+  schedule:
+    - cron: '00 4 * * *'
+
+permissions:
+  actions: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    name: "Call `Close stale issues and PRs` shared workflow"
+    uses: cumbucadev/shared-workflows/.github/workflows/close-stale-issues-v1.yml@main
