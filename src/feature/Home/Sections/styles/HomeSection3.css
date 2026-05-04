@@ -1,0 +1,34 @@
+.HomeSection3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 60vh;
+
+    background: #393939;
+    background: linear-gradient(318deg, rgba(57, 57, 57, 1) 0%, rgba(51, 51, 51, 1) 15%, rgba(40, 40, 40, 1) 85%, rgba(57, 57, 57, 1) 100%);
+}
+
+.HomeSection3Content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-family: "Inter", sans-serif;
+
+    & h4 {
+        font-size: clamp(30px, 16vw, 72px);
+        font-weight: 800;
+        color: #FEFACD;
+    }
+
+    & p {
+        font-size: clamp(18px, 7vw, 32px);
+        text-align: center;
+        font-weight: 600;
+        color: #FEFACD;
+    }
+}

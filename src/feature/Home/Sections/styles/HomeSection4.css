@@ -1,0 +1,65 @@
+.HomeSection4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 60vh;
+    min-height: 700px;
+
+    background: #FEFACD;
+}
+
+.HomeSection4Content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+    width: 80%;
+}
+
+.HomeSection4Content_Youtube {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+
+    font-family: "Inter", sans-serif;
+
+    & img {
+        /* width: 110px; */
+        width: 11.5vw;
+    }
+
+    & h4 {
+        /* font-size: 60px; */
+        font-size: clamp(24px, 7vw, 60px);
+    }
+}
+
+.HomeSection4Content_Button {
+    & button {
+        font-family: "Fira Code", monospace;
+        font-weight: 700;
+        font-size: clamp(18px, 4vw, 32px);
+        color: #ffff;
+
+        padding: 12px 22px;
+        border-radius: 20px;
+
+        background-color: #FF0000;
+
+        box-shadow: 8px 8px 0px 0px #000000;
+
+        transition: all 0.2s ease-in-out;
+    }
+
+    & button:hover {
+        background-color: #CC0000;
+        box-shadow: 6px 6px 0px 4px #000000;
+    }
+}

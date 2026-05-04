@@ -1,0 +1,63 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    position: fixed;
+    top: 30px;
+    z-index: 1000;
+
+    width: 100%;
+    height: auto;
+
+    background-color: transparent;
+}
+
+.Header_content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    width: 80%;
+    max-width: 1200px;
+    padding: 30px 20px;
+    border-radius: 30px;
+
+    background: #FF9E1B;
+    background: linear-gradient(334deg, rgba(255, 158, 27, 1) 50%, rgba(255, 203, 134, 1) 100%);
+
+    & img {
+        position: absolute;
+        width: auto;
+        height: 60px;
+
+        @media (max-width: 750px) {
+            display: none;
+        }
+    }
+}
+
+.Header_butons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 90%;
+
+    font-family: "Fira Code", monospace;
+
+    & h3 {
+        font-size: 26px;
+        font-weight: 500;
+        color: #FEFACD;
+        text-shadow: 2px 2px 0px #282828a3;
+
+        @media (max-width: 500px) {
+            font-size: 20px;
+        }
+    }
+}

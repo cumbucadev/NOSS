@@ -1,0 +1,34 @@
+.Footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 400px;
+
+    background-color: #282828;
+}
+
+.FooterContent {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 30px;
+
+    width: 80%;
+}
+
+.FooterContentColuna {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    gap: 5px;
+
+    font-size: 20px;
+    font-family: "Fira Code", monospace;
+    font-weight: 500;
+    color: #FEFACD;
+}
