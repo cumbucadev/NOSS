@@ -7,8 +7,8 @@ export default function Header() {
             <div className="Header_content">
                 <img src={logo} alt="Logo" />
                 <div className="Header_butons">
-                    <HeaderButtons title="Inicio" href="" />
-                    <HeaderButtons title="Sobre NOSS" href="" />
+                    <HeaderButtons title="Inicio" href="/" />
+                    <HeaderButtons title="Patrocine!" href="mailto:eventos@cumbuca.dev" />
                 </div>
             </div>
         </header>
