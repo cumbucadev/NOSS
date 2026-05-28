@@ -1,4 +1,4 @@
-# Anna e Só
+# Eduardo Oliveira
 
 ![Eduardo Oliveira](../assets/images/participantes/eduardo-oliveira.jpeg)
 
