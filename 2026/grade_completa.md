@@ -69,7 +69,7 @@ Trilha introdutória para pessoas em início de jornada:
       <td><b>12:30 – 13:30</b></td>
       <td colspan="2">
         <sup><b>🚀 Apresente seu Projeto!</b></sup><br>
-        <p>Talita Rossari e Belisa Arnhold / Henderson Matsuura Sanches / Holmes / Nilton Pimentel /  camis moreira</p>
+        <p>Talita Rossari e Belisa Arnhold / Henderson Matsuura Sanches / Holmes / camis moreira</p>
       </td>
     </tr>
     <tr>
