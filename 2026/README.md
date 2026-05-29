@@ -1,8 +1,18 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../brand/identidade/logos/horizontal_creme_blue.png">
-  <source media="(prefers-color-scheme: light)" srcset="../brand/identidade/logos/horizontal_black.png">
-  <img alt="Logo NOSS" src="../brand/identidade/logos/horizontal_black.png">
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="../brand/materiais/identidade-visual/logo/ativo-40.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="../brand/materiais/identidade-visual/logo/ativo-29.png"
+    >
+    <img
+      alt="Logo NOSS"
+      src="../brand/materiais/identidade-visual/logo/ativo-40.png"
+      width="1000%"
+    >
+  </picture>
 
 # NOSS 2026 - Nosso Open Source Summit
 
