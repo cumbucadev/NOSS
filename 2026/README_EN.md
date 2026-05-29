@@ -1,15 +1,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="brand/materiais/identidade-visual/logo/ativo-40.png"
+      srcset="../brand/materiais/identidade-visual/logo/ativo-40.png"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="brand/materiais/identidade-visual/logo/ativo-29.png"
+      srcset="../brand/materiais/identidade-visual/logo/ativo-29.png"
     >
     <img
       alt="NOSS logo"
-      src="brand/materiais/identidade-visual/logo/ativo-40.png"
+      src="../brand/materiais/identidade-visual/logo/ativo-40.png"
       width="1000%"
     >
   </picture>
