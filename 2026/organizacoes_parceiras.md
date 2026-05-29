@@ -126,7 +126,7 @@ No NOSS, a Tech Floripa participa da gestão do evento, atuando na organização
 
 <div align="center">
     <img
-      alt="Logo Python Floripa"
+      alt="Logo Portera Tech"
       src="assets/images/portera-tech.png"
       width="70%"
     >
