@@ -2,11 +2,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="brand/identidade/logos/horizontal_creme_blue.png"
+      srcset="brand/materiais/identidade-visual/logo/ativo-40.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="brand/materiais/identidade-visual/logo/ativo-29.png"
     >
     <img
       alt="Logo NOSS"
-      src="brand/identidade/logos/horizontal_creme_blue.png"
+      src="brand/materiais/identidade-visual/logo/ativo-40.png"
       width="1000%"
     >
   </picture>
@@ -84,10 +88,10 @@ Referências:
 
 * [GitHub Octoverse](https://octoverse.github.com/)
 
-* [GitHub Research](https://github.blog/news-insights/research/)  
+* [GitHub Research](https://github.blog/news-insights/research/)
 
 * [Stack Overflow Developer Survey](https://survey.stackoverflow.co/)
-  
+
 
 O problema não é capacidade técnica. É conexão, visibilidade e acesso.
 
@@ -119,7 +123,7 @@ Não se trata de iniciar algo isolado, mas de organizar algo que já existe de f
 
 Maio tem sido reconhecido internacionalmente como o mês de valorização de pessoas mantenedoras (Maintainer Month).
 
-* [GitHub](https://maintainermonth.github.com/) 
+* [GitHub](https://maintainermonth.github.com/)
 * [OSI](https://opensource.org/blog/may-is-maintainer-month-celebrating-those-who-secure-open-source)
 
 São essas pessoas que sustentam o ecossistema no dia a dia. Mesmo assim, muitas vezes trabalham com pouca visibilidade, pouco reconhecimento e poucos recursos.
@@ -221,13 +225,13 @@ Qualquer pessoa ou comunidade pode adaptar esse modelo e construir novas ediçõ
 ## 🧩 Estrutura do repositório
 
 ```
-/docs   → documentos estruturais  
-/2026   → edição atual  
-/brand  → identidade visual  
+/docs   → documentos estruturais
+/2026   → edição atual
+/brand  → identidade visual
 ```
 
 👉 Detalhes da edição atual:
-[/2026/README.md](2026/README.md) 
+[/2026/README.md](2026/README.md)
 
 ---
 
