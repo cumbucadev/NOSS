@@ -228,6 +228,12 @@ O NOSS é construído em colaboração com comunidades, organizações e iniciat
         <sub><b>Tech Floripa</b></sub>
       </a>
     </td>
+    <td align="center" width="180">
+      <a href="https://www.progirls.com.br/">
+        <img src="assets/images/logo_progirls.jpeg" height="48" alt="Logo ProGirls"><br>
+        <sub><b>ProGirls</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 

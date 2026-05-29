@@ -76,7 +76,7 @@ O NOSS contará com participação confirmada de representante da UBL na program
     <img
       alt="Logo Python Floripa"
       src="assets/images/python_floripa.jpeg"
-      width="70%"
+      width="60%"
     >
 </div>
 <br>
@@ -106,7 +106,7 @@ No NOSS, a Python Floripa participará com uma Palestra ao vivo no formato híbr
     <img
       alt="Logo Tech Floripa"
       src="assets/images/tech_floripa_white_background.jpeg"
-      width="70%"
+      width="50%"
     >
   </picture>
 </div>
@@ -121,3 +121,35 @@ A Tech Floripa é um hub de eventos de tecnologia de Florianópolis e região, c
 No NOSS, a Tech Floripa participa da gestão do evento, atuando na organização das inscrições, na emissão de certificados e na realização de sorteios.
 
 🔗 https://tech.floripa.br/
+
+## ProGirls
+
+<div align="center"> 
+    <img
+      alt="Logo ProGirls"
+      src="assets/images/logo_progirls.jpeg"
+      width="70%"
+    >
+</div>
+<br>
+
+**Atuação:** Comunidade global dedicada ao apoio, capacitação e fortalecimento de mulheres na tecnologia.
+
+**Localização:** Online / Global
+
+A ProGirls é uma comunidade criada para conectar, apoiar e impulsionar mulheres no mundo da tecnologia, promovendo oportunidades de aprendizado, networking e crescimento profissional para participantes de diferentes lugares do mundo.
+
+A comunidade desenvolve iniciativas voltadas à educação e inclusão no setor tech, incluindo mentorias, treinamentos, workshops, projetos colaborativos e ações de voluntariado.
+
+Atualmente, a ProGirls reúne:
+
+* +4 mil mulheres conectadas no LinkedIn
+* +1 mil participantes em grupos e comunidades
+* Rede ativa de voluntariado e apoio
+* Projetos, mentorias e workshops voltados à tecnologia e carreira
+
+A proposta da comunidade é criar um ambiente acessível, acolhedor e colaborativo para fortalecer a presença feminina na tecnologia e gerar impacto positivo no ecossistema.
+
+O NOSS contará com a parceria de divulgação e engajamento da ProGirls.
+
+🔗 https://www.progirls.com.br/
