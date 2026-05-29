@@ -64,7 +64,7 @@ O NOSS contará com participação confirmada de representante da OSI na program
 
 **Localização:** Brasil (remoto)
 
-A Universidade Livre Brasileira é um projeto inspirado na Open Source Society University (OSSU). É uma comunidade sem fins lucrativos de apoio de estudantes de todos os níveis que ajudam uns aos outros e compartilham suas experiências e conhecimentos em torno de diferentes currículos de código aberto. 
+A Universidade Livre Brasileira é um projeto inspirado na Open Source Society University (OSSU). É uma comunidade sem fins lucrativos de apoio de estudantes de todos os níveis que ajudam uns aos outros e compartilham suas experiências e conhecimentos em torno de diferentes currículos de código aberto.
 
 O NOSS contará com participação confirmada de representante da UBL na programação do evento.
 
@@ -83,7 +83,7 @@ O NOSS contará com participação confirmada de representante da UBL na program
 
 **Atuação:** Comunidade regional que reúne pessoas interessadas em Python, tecnologia e inovação por meio de encontros mensais de troca de conhecimento e conexões.
 
-**Localização:** Florianópolis, Brasil 
+**Localização:** Florianópolis, Brasil
 
 A Python Floripa é uma comunidade regional que reúne entusiastas da linguagem Python em encontros mensais voltados à troca de conhecimento, networking e fortalecimento do ecossistema de tecnologia da Grande Florianópolis. Mais do que uma comunidade sobre uma linguagem, é um espaço de conexão entre pessoas, ideias e iniciativas do mundo tech.
 
@@ -121,3 +121,24 @@ A Tech Floripa é um hub de eventos de tecnologia de Florianópolis e região, c
 No NOSS, a Tech Floripa participa da gestão do evento, atuando na organização das inscrições, na emissão de certificados e na realização de sorteios.
 
 🔗 https://tech.floripa.br/
+
+## Portera Tech
+
+<div align="center">
+    <img
+      alt="Logo Python Floripa"
+      src="assets/images/portera-tech.png"
+      width="70%"
+    >
+</div>
+<br>
+
+**Atuação:**: Comunidade fofoqueira que reúne pessoas interessadas em temas como carreira, tecnologia e inovação por meio de eventos de troca de conhecimento e conexões.
+
+**Localização:**: Goiânia, Brasil
+
+A Portera Tech é uma comunidade voltada para carreira em tecnologia, que conecta pessoas por meio de eventos, mentorias e conteúdos práticos, com foco em desenvolvimento profissional, troca de experiências e crescimento no mercado tech.
+
+No NOSS, três pessoas que participam da comunidade foram aceitas para palestrar (Eduardo Oliveira, Camis Moreira e Anna e Só). Além disso, a Portera Tech apoia na divulgação do evento.
+
+🔗 https://www.instagram.com/porteratech/
