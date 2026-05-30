@@ -5,7 +5,7 @@
 ## 📌 Informações
 
 - **Pronomes:** ela/dela - she/her
-- **LinkedIn:** https://www.linkedin.com/in/pachicodes/https://github.com/pachicodes
+- **LinkedIn:** https://www.linkedin.com/in/pachicodes/
 - **GitHub:** https://github.com/pachicodes
 
 ## 🧠 Bio
