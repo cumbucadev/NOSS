@@ -82,7 +82,7 @@ No registration is required - just join and watch.
     </td>
     <td align="center" width="100">
       <a href="./pessoas/carla-rocha.md">
-        <img src="https://ui-avatars.com/api/?name=Carla+Rocha&size=80&rounded=true&background=e6a817&color=fff&bold=true" width="80" height="80"><br>
+        <img src="./assets/images/participantes/carla-rocha.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
         <sub><b>Carla Rocha</b></sub>
       </a>
     </td>
@@ -122,6 +122,8 @@ No registration is required - just join and watch.
         <sub><b>Maitê</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <a href="./pessoas/marylia-gutierrez.md">
         <img src="./assets/images/participantes/marylia-gutierrez.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
@@ -134,8 +136,6 @@ No registration is required - just join and watch.
         <sub><b>Mário Sérgio</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <a href="./pessoas/mateus-roveda.md">
         <img src="./assets/images/participantes/mateus-roveda.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
