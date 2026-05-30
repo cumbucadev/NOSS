@@ -244,6 +244,12 @@ O NOSS é construído em colaboração com comunidades, organizações e iniciat
         <sub><b>ProGirls</b></sub>
       </a>
     </td>
+    <td align="center" width="180">
+      <a href="instagram.com/porteratech/">
+        <img src="assets/images/portera-tech.png" height="48" alt="Logo ProGirls"><br>
+        <sub><b>Portera Tech</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 

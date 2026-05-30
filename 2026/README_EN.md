@@ -1,7 +1,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="brand/materiais/identidade-visual/logo/ativo-40.png"
+      srcset="../brand/materiais/identidade-visual/logo/ativo-40.png"
     >
     <source
       media="(prefers-color-scheme: light)"
@@ -242,6 +242,12 @@ NOSS is built in collaboration with communities, organizations, and initiatives 
       <a href="https://www.progirls.com.br/">
         <img src="assets/images/logo_progirls.jpeg" height="48" alt="Logo ProGirls"><br>
         <sub><b>ProGirls</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="instagram.com/porteratech/">
+        <img src="assets/images/portera-tech.png" height="48" alt="Logo ProGirls"><br>
+        <sub><b>Portera Tech</b></sub>
       </a>
     </td>
   </tr>
