@@ -5,8 +5,8 @@
 ## 📌 Informações
 
 - **Pronomes:** ela/dela - she/her, elu/delu - they/them, não uso pronomes - no pronouns
-- **LinkedIn:** https://www.linkedin.com/in/caarlos0/
-- **GitHub:** https://github.com/caarlos0
+- **LinkedIn:** https://linkedin.com/in/cuducos
+- **GitHub:** https://github.com/cuducos
 
 ## 🧠 Bio
 
