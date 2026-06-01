@@ -51,11 +51,11 @@ Reunimos pessoas que constroem, mantêm e querem entrar no ecossistema de tecnol
 
 O evento será transmitido ao vivo pelo YouTube, gratuitamente, em duas trilhas simultâneas:
 
-* **🟣 [Trilha principal - FLOSS na prática](https://www.youtube.com/watch?v=2GLyGSolizQ)**
+* **🟣 [Trilha principal - FLOSS na prática](https://youtube.com/watch?v=2GLyGSolizQ)**
 Conteúdo técnico e avançado: keynotes, palestras, painel de encerramento.
 
-* **🔵 Trilha Iniciante - Fundamentos em FLOSS**
-Trilha introdutória para quem está começando no ecossistema open source. _Link disponível próximo à data do evento._
+* **🔵 [Trilha Iniciante - Fundamentos em FLOSS](https://youtube.com/watch?v=Ox8QL8BdPU8)**
+Trilha introdutória para quem está começando no ecossistema open source.
 
 Não precisa se inscrever - é só entrar e assistir.
 
