@@ -1,0 +1,3 @@
+chat: esta página vai conter uma intro para a seção de Criação de um Projeto.
+dizer que aqui vai cobrir tudo sobre criar um novo projetos FLOSS.
+que vao ter fundamentos, guias, passo a passo, boas práticas, padrões...

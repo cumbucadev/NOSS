@@ -1,13 +1,4 @@
----
-title: Conventional Commits
-summary:
-tags: []
-status: draft
-authors: []
-last_updated:
----
-
-copilot:
+chat:
 - explicar o quê é
 - para que serve
 - benefícios de usar

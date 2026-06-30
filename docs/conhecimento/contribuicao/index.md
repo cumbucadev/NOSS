@@ -1,0 +1,3 @@
+chat: esta página vai conter uma intro para a seção de Contribuição.
+dizer que aqui vai cobrir tudo sobre contribuir com outros projetos que já existem, de outras pessoas.
+que vao ter fundamentos, guias, boas práticas, padrões...

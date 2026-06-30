@@ -1,18 +1,8 @@
----
-title: Codeowners
-summary:
-tags: []
-status: draft
-authors: []
-last_updated:
----
-
-# Codeowners
-
-## Objetivo
-
-## Conteúdo
-
-## Recursos relacionados
-
-## Referências
+chat:
+- explicar o quê é
+- para que serve
+- benefícios de usar
+- link para a documentação em pt-br
+- exemplos de uso
+- falar sobre necessidade de avaliar se é necessário ou não,
+dependendo do tamnho do projeto, número de pessoas contribuidoras...

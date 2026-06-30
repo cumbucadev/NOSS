@@ -1,0 +1,3 @@
+chat: esta página vai conter uma intro para a seção de Conhecimento.
+dizer que aqui vai cobrir fundamentos, guias, passo a passo, boas práticas, padrões, ferramentas...
+do ecossistema de FLOSS

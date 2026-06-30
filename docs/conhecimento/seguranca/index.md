@@ -1,0 +1,3 @@
+chat: esta página vai conter uma intro para a seção de Segurança.
+dizer que aqui vai cobrir tudo sobre segurança em um projeto FLOSS.
+que vao ter fundamentos, guias, passo a passo, boas práticas, padrões, ferramentas...

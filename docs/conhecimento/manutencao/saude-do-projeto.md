@@ -1,18 +1,6 @@
----
-title: Saude Do Projeto
-summary:
-tags: []
-status: draft
-authors: []
-last_updated:
----
-
-# Saude Do Projeto
-
-## Objetivo
-
-## Conteúdo
-
-## Recursos relacionados
-
-## Referências
+chat:
+- explicar o quê é saúde do projeto
+- como é mensurada
+- benefícios de mensurar
+- exemplos de ferramentas
+- exemplos de outros projetos

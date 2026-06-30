@@ -1,5 +1,7 @@
-copilot:
-- preencher essa página e organizar esses links. Dar um mini resumo de cada, cerca de duas linhas.
+chat:
+- preencher essa página
+- dar uma intro de que aqui são recursos externos, criados por outras fontes
+- organizar esses links. Dar um mini resumo de cada, cerca de duas linhas. Sinalizar se disponível em pt-br
 
 https://opensource.guide/
 https://www.redhat.com/en/blog/understanding-open-source-governance-models

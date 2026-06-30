@@ -1,0 +1,3 @@
+chat: esta página vai conter uma intro para a seção de Utilização.
+dizer que aqui vai cobrir tudo sobre o uso de projetos/ferramentas/soluções FLOSS.
+que vao ter fundamentos, guias...

@@ -1,1 +1,2 @@
-referências para consultas rápidas. agrega o conteúdo.
+chat: essa é a intro para a seção Referências Externas. Dizer que é uma seção para consultas rápidas.
+conteúdo agregado...

@@ -5,13 +5,13 @@ nav:
       - index.md
       - Comunidades: comunidades/index.md
       - Eventos: eventos/index.md
-      - Financiamentos:
-          - financiamentos/bolsas.md
-          - financiamentos/github-sponsors.md
-          - financiamentos/google-summer-of-code.md
-          - financiamentos/nlnet.md
-          - financiamentos/open-collective.md
-          - financiamentos/prototype-fund.md
+      - Fontes de Financiamento:
+        - fontes-de-financiamento/aceleradoras.md
+        - fontes-de-financiamento/bolsas.md
+        - fontes-de-financiamento/fundos.md
+        - fontes-de-financiamento/grants.md
+        - fontes-de-financiamento/incubadoras.md
+        - fontes-de-financiamento/programas.md
       - Governo: governo/index.md
       - Organizações: organizacoes/index.md
       - Pessoas: pessoas/index.md
@@ -124,6 +124,8 @@ nav:
           - Sponsorship Proposal: edicoes/2026/sponsorship_proposal.md
 
   - Blog: blog/index.md
+
+  - Contato: contato.md
 
 theme:
   name: material
