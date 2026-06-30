@@ -1,0 +1,132 @@
+site_name: NOSS
+
+nav:
+  - Início:
+      - index.md
+      - Fundamentos:
+          - Open Source: fundamentos/open-source.md
+          - Software Livre: fundamentos/software-livre.md
+          - FLOSS: fundamentos/floss.md
+          - Open Source vs Software Livre: fundamentos/open-source-vs-software-livre.md
+          - Software Proprietário: fundamentos/software-proprietario.md
+          - Domínio Público: fundamentos/dominio-publico.md
+          - Licença de Software: fundamentos/licenca-de-software.md
+          - Governança: fundamentos/governanca.md
+          - Segurança: fundamentos/seguranca.md
+          - Monetização: fundamentos/monetizacao.md
+          - Glossário: fundamentos/glossario.md
+      - Guias:
+          - Utilização de FLOSS:
+              - guias/utilizacao/index.md
+          - Contribuição em Projetos:
+              - guias/contribuicao/index.md
+              - Roadmap: contribuicao/roadmap.md
+          - Criação de Projeto:
+              - guias/criacao/index.md
+              - Escolha de Licença: guias/criacao/escolha-de-licenca.md
+          - Manutenção de Projeto:
+              - guias/manutencao/index.md
+              - Saúde do Projeto: guias/manutencao/saude-do-projeto.md
+              - Governança: guias/manutencao/governanca.md
+          - Segurança em FLOSS:
+              - guias/seguranca/index.md
+      - Padrões:
+          - padroes/index.md
+          - padroes/changelog-md.md
+          - padroes/code-of-conduct-md.md
+          - padroes/contributing-md.md
+          - padroes/licenca-md.md
+          - padroes/readme-md.md
+          - padroes/codeowners.md
+          - padroes/conventional-commits.md
+          - padroes/openssf-scorecard.md
+          - padroes/reuse.md
+          - padroes/sbom.md
+          - padroes/security-md.md
+          - padroes/semantic-versioning.md
+
+      - Ecossistema: []
+      - Recursos Externos:
+          - recursos-externos/index.md
+
+  - Edições:
+      - 2026:
+          - NOSS 2026: edicoes/2026/index.md
+          - Grade Completa: edicoes/2026/grade_completa.md
+          - Organizações Parceiras: edicoes/2026/organizacoes_parceiras.md
+          - Atividades:
+              - edicoes/2026/atividades/a-infraestrutura-digital-e-global-e-o-brasil-faz-parte-dela.md
+              - edicoes/2026/atividades/como-contribuir-open-source-mudou-a-minha-vida.md
+              - edicoes/2026/atividades/comunidade-e-diversidade-uma-combinacao-obrigatoria.md
+              - edicoes/2026/atividades/conhecimento-livre-como-a-universidade-brasileira-livre-surgiu-e-como-posso-contribuir.md
+              - edicoes/2026/atividades/contribuindo-com-open-source-por-onde-comecar.md
+              - edicoes/2026/atividades/contribuindo-para-o-open-source-sendo-uma-pessoa-comum.md
+              - edicoes/2026/atividades/desenvolvendo-sistemas-em-lingua-portuguesa-venha-conhecer.md
+              - edicoes/2026/atividades/github-opensource-e-comunidades.md
+              - edicoes/2026/atividades/maintaine-rs-os-herois-invisiveis-do-open-source.md
+              - edicoes/2026/atividades/o-valor-do-portfolio-na-era-da-ai.md
+              - edicoes/2026/atividades/open-source-vs-ia-um-panorama-das-politicas-de-engajamento-atuais.md
+              - edicoes/2026/atividades/para-onde-vai-o-software-livre.md
+              - edicoes/2026/atividades/software-livre-ontem-e-hoje.md
+              - edicoes/2026/atividades/tecnologias-abertas-para-politicas-publicas.md
+          - Pessoas Palestrantes e Painelistas:
+              - edicoes/2026/pessoas/anna-e-so.md
+              - edicoes/2026/pessoas/camis-moreira.md
+              - edicoes/2026/pessoas/carla-rocha.md
+              - edicoes/2026/pessoas/carlos-becker.md
+              - edicoes/2026/pessoas/cuducos.md
+              - edicoes/2026/pessoas/eduardo-oliveira.md
+              - edicoes/2026/pessoas/felipython.md
+              - edicoes/2026/pessoas/hisham-muhammad.md
+              - edicoes/2026/pessoas/maite.md
+              - edicoes/2026/pessoas/mario-sergio.md
+              - edicoes/2026/pessoas/marylia-gutierrez.md
+              - edicoes/2026/pessoas/mateus-roveda.md
+              - edicoes/2026/pessoas/melissawm.md
+              - edicoes/2026/pessoas/mr-enderson.md
+              - edicoes/2026/pessoas/nick-vidal.md
+              - edicoes/2026/pessoas/pachi-parra.md
+              - edicoes/2026/pessoas/paloma-oliveira.md
+              - edicoes/2026/pessoas/yaso.md
+          - Proposta de Patrocínio: edicoes/2026/proposta_patrocinio.md
+          - NOSS 2026 (English): edicoes/2026/en.md
+          - Sponsorship Proposal: edicoes/2026/sponsorship_proposal.md
+
+  - Blog: blog/index.md
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/images/logo_amarelo_e_creme.png
+  favicon: assets/images/icone_preto.png
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.footer
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
+
+extra:
+  hide:
+    - title
+
+extra_css:
+  - assets/stylesheets/extra.css
