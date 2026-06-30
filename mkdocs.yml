@@ -28,7 +28,6 @@ nav:
           - Software Proprietário: conhecimento/floss/software-proprietario.md
           - Domínio Público: conhecimento/floss/dominio-publico.md
           - Licença de Software: conhecimento/floss/licenca-de-software.md
-          - Monetização: conhecimento/floss/monetizacao.md
       - Utilização de FLOSS:
           - conhecimento/utilizacao/index.md
           - Guias:
@@ -47,7 +46,6 @@ nav:
               - Escolha de Licença: conhecimento/criacao/guias/escolha-de-licenca.md
       - Manutenção de Projeto:
           - conhecimento/manutencao/index.md
-          - Saúde do Projeto: conhecimento/manutencao/saude-do-projeto.md
           - CHANGELOG.md: conhecimento/manutencao/changelog-md.md
           - Codeowners: conhecimento/manutencao/codeowners.md
           - CONTRIBUTING.md: conhecimento/manutencao/contributing-md.md
@@ -62,6 +60,7 @@ nav:
           - Sustentabilidade Organizacional: conhecimento/sustentabilidade/organizacional.md
           - Governança: conhecimento/sustentabilidade/governanca.md
           - Sustentabilidade Humana: conhecimento/sustentabilidade/humana.md
+          - Saúde do Projeto: conhecimento/sustentabilidade/saude-do-projeto.md
       - Segurança em FLOSS:
           - conhecimento/seguranca/index.md
           - CVE: conhecimento/seguranca/cve.md
