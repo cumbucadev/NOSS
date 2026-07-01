@@ -4,14 +4,28 @@ nav:
   - Início:
       - index.md
       - Comunidades: comunidades/index.md
-      - Eventos: eventos/index.md
+      - Eventos:
+        - eventos/index.md
+        - 2026: eventos/2026.md
       - Fontes de Financiamento:
-        - fontes-de-financiamento/aceleradoras.md
-        - fontes-de-financiamento/bolsas.md
-        - fontes-de-financiamento/fundos.md
-        - fontes-de-financiamento/grants.md
-        - fontes-de-financiamento/incubadoras.md
-        - fontes-de-financiamento/programas.md
+        - fontes-de-financiamento/index.md
+        - Comercialização: fontes-de-financiamento/comercializacao/index.md
+        - Financiamento Comunitário: fontes-de-financiamento/financiamento-comunitario/index.md
+        - Financiamento Corporativo: fontes-de-financiamento/financiamento-corporativo/index.md
+        - Financiamento Institucional:
+            - Bolsas: fontes-de-financiamento/financiamento-institucional/bolsas.md
+            - Fundos: fontes-de-financiamento/financiamento-institucional/fundos.md
+            - Grants: fontes-de-financiamento/financiamento-institucional/grants.md
+            - Programas: fontes-de-financiamento/financiamento-institucional/programas.md
+        - Plataformas para Recebimento de Financiamentos: fontes-de-financiamento/plataformas-para-receber-financiamentos.md
+      - Programas de Apoio:
+        - programas-de-apoio/index.md
+        - Programas de Mentoria: programas-de-apoio/mentoria.md
+        - Programas de Ferramentas Gratuitas: programas-de-apoio/ferramentas-gratuitas.md
+        - Programas de Infraestrutura: programas-de-apoio/infraestrutura.md
+        - Programas de Segurança: programas-de-apoio/seguranca.md
+        - Programas de Comunidade e Ecossistema: programas-de-apoio/comunidade-e-ecossistema.md
+        - Incubadoras: programas-de-apoio/incubadoras.md
       - Governo: governo/index.md
       - Organizações: organizacoes/index.md
       - Pessoas: pessoas/index.md
@@ -153,6 +167,7 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+
 plugins:
   - search
 
