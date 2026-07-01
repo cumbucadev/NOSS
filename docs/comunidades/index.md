@@ -8,9 +8,7 @@ Abaixo está uma lista de algumas das principais comunidades brasileiras relacio
 
 > **Quer sugerir uma comunidade?** Abra uma contribuição no repositório do projeto para que possamos manter esta lista sempre atualizada.
 
-## Comunidades
-
-### Cumbuca Dev
+## Cumbuca Dev
 
 Comunidade dedicada à promoção da diversidade e inclusão na tecnologia por meio da educação e do Open Source. Produz conteúdos, mentorias, eventos e iniciativas voltadas ao desenvolvimento de pessoas e comunidades.
 
@@ -18,7 +16,7 @@ Comunidade dedicada à promoção da diversidade e inclusão na tecnologia por m
 
 ---
 
-### Python Brasil
+## Python Brasil
 
 Comunidade oficial da linguagem Python no Brasil. Organiza a conferência Python Brasil, encontros regionais e diversas iniciativas voltadas à educação, colaboração e desenvolvimento da comunidade Python.
 
@@ -26,7 +24,7 @@ Comunidade oficial da linguagem Python no Brasil. Organiza a conferência Python
 
 ---
 
-### Debian Brasil
+## Debian Brasil
 
 Comunidade brasileira responsável por apoiar usuários e contribuidores do projeto Debian. Promove documentação, suporte, eventos e incentiva contribuições para uma das principais distribuições Linux do mundo.
 
@@ -34,7 +32,7 @@ Comunidade brasileira responsável por apoiar usuários e contribuidores do proj
 
 ---
 
-### Fedora Brasil
+## Fedora Brasil
 
 Comunidade brasileira do projeto Fedora, responsável por apoiar usuários, produzir documentação, organizar eventos e incentivar contribuições para o ecossistema Fedora.
 
@@ -42,7 +40,7 @@ Comunidade brasileira do projeto Fedora, responsável por apoiar usuários, prod
 
 ---
 
-### KDE Brasil
+## KDE Brasil
 
 Grupo de colaboradores e usuários dos projetos KDE, responsável por traduções, documentação, divulgação e participação em eventos relacionados ao ambiente KDE e suas aplicações.
 
@@ -50,7 +48,7 @@ Grupo de colaboradores e usuários dos projetos KDE, responsável por traduçõe
 
 ---
 
-### GNOME Brasil
+## GNOME Brasil
 
 Comunidade brasileira dedicada ao ambiente GNOME e seus projetos, reunindo pessoas interessadas em desenvolvimento, tradução, documentação e divulgação.
 
@@ -58,7 +56,7 @@ Comunidade brasileira dedicada ao ambiente GNOME e seus projetos, reunindo pesso
 
 ---
 
-### PHP com Rapadura
+## PHP com Rapadura
 
 Comunidade brasileira focada no ecossistema PHP, promovendo eventos, encontros e compartilhamento de conhecimento entre desenvolvedores.
 
@@ -66,7 +64,7 @@ Comunidade brasileira focada no ecossistema PHP, promovendo eventos, encontros e
 
 ---
 
-### NodeBR
+## NodeBR
 
 Comunidade brasileira voltada ao ecossistema Node.js, reunindo desenvolvedores para troca de conhecimento, eventos e colaboração em projetos Open Source.
 
@@ -74,7 +72,7 @@ Comunidade brasileira voltada ao ecossistema Node.js, reunindo desenvolvedores p
 
 ---
 
-### React Brasil
+## React Brasil
 
 Comunidade dedicada ao ecossistema React, React Native e tecnologias relacionadas, promovendo eventos, grupos de estudo e compartilhamento de conteúdo.
 
@@ -82,7 +80,7 @@ Comunidade dedicada ao ecossistema React, React Native e tecnologias relacionada
 
 ---
 
-### Rust Brasil
+## Rust Brasil
 
 Comunidade brasileira da linguagem Rust, incentivando aprendizado, colaboração em projetos Open Source, tradução de documentação e organização de eventos.
 
@@ -90,7 +88,7 @@ Comunidade brasileira da linguagem Rust, incentivando aprendizado, colaboração
 
 ---
 
-### Go Brasil
+## Go Brasil
 
 Comunidade brasileira da linguagem Go (Golang), reunindo desenvolvedores para compartilhar conhecimento, produzir conteúdo e colaborar com projetos Open Source.
 

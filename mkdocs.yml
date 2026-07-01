@@ -1,4 +1,7 @@
 site_name: NOSS
+repo_url: https://github.com/cumbucadev/NOSS
+repo_name: cumbucadev/NOSS
+edit_uri: edit/main/docs/
 
 nav:
   - Início:
@@ -160,17 +163,29 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
   features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - navigation.footer
     - navigation.indexes
     - navigation.instant
-    - navigation.footer
-    - navigation.tracking
     - navigation.tabs
     - navigation.top
-    - search.suggest
+    - navigation.tracking
     - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
 
 plugins:
   - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
 
 extra:
   hide:
