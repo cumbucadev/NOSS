@@ -3,13 +3,17 @@ site_name: NOSS
 nav:
   - Início:
       - index.md
+      - Organizações: organizacoes/index.md
       - Comunidades: comunidades/index.md
+      - Governo: governo/index.md
+      - Academia: academia/index.md
+      - Pessoas Brasileiras Mantenedoras: pessoas/index.md
+      - Projetos Brasileiros: projetos/index.md
       - Eventos:
         - eventos/index.md
         - 2026: eventos/2026.md
       - Fontes de Financiamento:
         - fontes-de-financiamento/index.md
-        - Comercialização: fontes-de-financiamento/comercializacao/index.md
         - Financiamento Comunitário: fontes-de-financiamento/financiamento-comunitario/index.md
         - Financiamento Corporativo: fontes-de-financiamento/financiamento-corporativo/index.md
         - Financiamento Institucional:
@@ -17,6 +21,8 @@ nav:
             - Fundos: fontes-de-financiamento/financiamento-institucional/fundos.md
             - Grants: fontes-de-financiamento/financiamento-institucional/grants.md
             - Programas: fontes-de-financiamento/financiamento-institucional/programas.md
+        - Comercialização: fontes-de-financiamento/comercializacao/index.md
+        - Prestação de Serviços: fontes-de-financiamento/prestacao-de-servicos/index.md
         - Plataformas para Recebimento de Financiamentos: fontes-de-financiamento/plataformas-para-receber-financiamentos.md
       - Programas de Apoio:
         - programas-de-apoio/index.md
@@ -26,11 +32,6 @@ nav:
         - Programas de Segurança: programas-de-apoio/seguranca.md
         - Programas de Comunidade e Ecossistema: programas-de-apoio/comunidade-e-ecossistema.md
         - Incubadoras: programas-de-apoio/incubadoras.md
-      - Governo: governo/index.md
-      - Organizações: organizacoes/index.md
-      - Pessoas: pessoas/index.md
-      - Projetos: projetos/index.md
-      - Universidades: universidades/index.md
 
   - Conhecimento:
       - conhecimento/index.md
