@@ -1,6 +1,6 @@
 # Contributing
 
-#### Procurando a [Versão em Português](/CONTRIBUTING.md)? 
+#### Procurando a [Versão em Português](/CONTRIBUTING.md)?
 
 # 💻 Contributing to NOSS
 
@@ -95,9 +95,22 @@ Use clear and descriptive names:
 * write clearly
 * review before submitting
 
+### 5. Preview and validate the documentation
+
+If you change files in `docs/` or the MkDocs configuration, you can preview the site locally:
+
+* install dependencies with `make install`
+* start the local server with `make serve`
+* open the site at `http://127.0.0.1:8000`
+* build the static version with `make build`
+* check formatting and linting with `make check`
+* remove generated files with `make clean`
+
+These commands use MkDocs and the environment configured through `uv`, as defined in the Makefile and `pyproject.toml`.
+
 ---
 
-### 5. Open a Pull Request
+### 6. Open a Pull Request
 
 Please describe:
 

@@ -1,0 +1,196 @@
+site_name: NOSS
+site_url: https://cumbucadev.github.io/NOSS/
+repo_url: https://github.com/cumbucadev/NOSS
+repo_name: cumbucadev/NOSS
+edit_uri: edit/main/docs/
+
+nav:
+  - Início:
+      - index.md
+      - Organizações: organizacoes/index.md
+      - Comunidades: comunidades/index.md
+      - Governo: governo/index.md
+      - Academia: academia/index.md
+      - Pessoas Brasileiras Mantenedoras: pessoas/index.md
+      - Projetos Brasileiros: projetos/index.md
+      - Eventos:
+        - eventos/index.md
+        - 2026: eventos/2026.md
+      - Fontes de Financiamento:
+        - fontes-de-financiamento/index.md
+        - Financiamento Comunitário: fontes-de-financiamento/financiamento-comunitario/index.md
+        - Financiamento Corporativo: fontes-de-financiamento/financiamento-corporativo/index.md
+        - Financiamento Institucional:
+            - Bolsas: fontes-de-financiamento/financiamento-institucional/bolsas.md
+            - Fundos: fontes-de-financiamento/financiamento-institucional/fundos.md
+            - Grants: fontes-de-financiamento/financiamento-institucional/grants.md
+            - Programas: fontes-de-financiamento/financiamento-institucional/programas.md
+        - Comercialização: fontes-de-financiamento/comercializacao/index.md
+        - Prestação de Serviços: fontes-de-financiamento/prestacao-de-servicos/index.md
+        - Plataformas para Recebimento de Financiamentos: fontes-de-financiamento/plataformas-para-receber-financiamentos.md
+      - Programas de Apoio:
+        - programas-de-apoio/index.md
+        - Programas de Mentoria: programas-de-apoio/mentoria.md
+        - Programas de Ferramentas Gratuitas: programas-de-apoio/ferramentas-gratuitas.md
+        - Programas de Infraestrutura: programas-de-apoio/infraestrutura.md
+        - Programas de Segurança: programas-de-apoio/seguranca.md
+        - Programas de Comunidade e Ecossistema: programas-de-apoio/comunidade-e-ecossistema.md
+        - Incubadoras: programas-de-apoio/incubadoras.md
+
+  - Conhecimento:
+      - conhecimento/index.md
+      - Fundamentos:
+          - Open Source: conhecimento/floss/open-source.md
+          - Software Livre: conhecimento/floss/software-livre.md
+          - FLOSS: conhecimento/floss/floss.md
+          - Open Source vs Software Livre: conhecimento/floss/open-source-vs-software-livre.md
+          - Software Proprietário: conhecimento/floss/software-proprietario.md
+          - Domínio Público: conhecimento/floss/dominio-publico.md
+          - Licença de Software: conhecimento/floss/licenca-de-software.md
+      - Utilização de FLOSS:
+          - conhecimento/utilizacao/index.md
+          - Guias:
+              - Encontrar Alternativas FLOSS: conhecimento/utilizacao/encontrar-alternativas-floss.md
+      - Contribuição em Projetos:
+          - conhecimento/contribuicao/index.md
+          - Roadmap: conhecimento/contribuicao/roadmap.md
+          - Guias:
+              - conhecimento/contribuicao/guias/index.md
+              - Encontrar um Projeto: conhecimento/contribuicao/guias/encontrar-um-projeto.md
+      - Criação de Projeto:
+          - conhecimento/criacao/index.md
+          - CODE_OF_CONDUCT.md: conhecimento/criacao/code-of-conduct-md.md
+          - Guias:
+              - conhecimento/criacao/guias/index.md
+              - Escolha de Licença: conhecimento/criacao/guias/escolha-de-licenca.md
+      - Manutenção de Projeto:
+          - conhecimento/manutencao/index.md
+          - CHANGELOG.md: conhecimento/manutencao/changelog-md.md
+          - Codeowners: conhecimento/manutencao/codeowners.md
+          - CONTRIBUTING.md: conhecimento/manutencao/contributing-md.md
+          - Conventional Commits: conhecimento/manutencao/conventional-commits.md
+          - Release: conhecimento/manutencao/release.md
+          - Versionamento: conhecimento/manutencao/versionamento.md
+      - Sustentabilidade de Projeto:
+          - conhecimento/sustentabilidade/index.md
+          - Sustentabilidade Financeira: conhecimento/sustentabilidade/financeira.md
+          - Sustentabilidade Técnica: conhecimento/sustentabilidade/tecnica.md
+          - Sustentabilidade Comunitaria: conhecimento/sustentabilidade/comunitaria.md
+          - Sustentabilidade Organizacional: conhecimento/sustentabilidade/organizacional.md
+          - Governança: conhecimento/sustentabilidade/governanca.md
+          - Sustentabilidade Humana: conhecimento/sustentabilidade/humana.md
+          - Saúde do Projeto: conhecimento/sustentabilidade/saude-do-projeto.md
+      - Segurança em FLOSS:
+          - conhecimento/seguranca/index.md
+          - CVE: conhecimento/seguranca/cve.md
+          - CVSS: conhecimento/seguranca/cvss.md
+          - Dependências: conhecimento/seguranca/dependencias.md
+          - Provenance: conhecimento/seguranca/provenance.md
+          - SBOM: conhecimento/seguranca/sbom.md
+          - SECURITY.md: conhecimento/seguranca/security-md.md
+          - SLSA: conhecimento/seguranca/slsa.md
+          - Supply Chain: conhecimento/seguranca/supply-chain.md
+          - Vulnerabilidades: conhecimento/seguranca/vulnerabilidade.md
+      - Referências:
+          - conhecimento/referencias/index.md
+          - Glossário: conhecimento/referencias/glossario.md
+          - Padrões: conhecimento/referencias/padroes.md
+      - Recursos Externos:
+          - conhecimento/recursos-externos/index.md
+
+  - Edições:
+      - 2026:
+          - NOSS 2026: edicoes/2026/index.md
+          - Grade Completa: edicoes/2026/grade_completa.md
+          - Organizações Parceiras: edicoes/2026/organizacoes_parceiras.md
+          - Atividades:
+              - edicoes/2026/atividades/a-infraestrutura-digital-e-global-e-o-brasil-faz-parte-dela.md
+              - edicoes/2026/atividades/como-contribuir-open-source-mudou-a-minha-vida.md
+              - edicoes/2026/atividades/comunidade-e-diversidade-uma-combinacao-obrigatoria.md
+              - edicoes/2026/atividades/conhecimento-livre-como-a-universidade-brasileira-livre-surgiu-e-como-posso-contribuir.md
+              - edicoes/2026/atividades/contribuindo-com-open-source-por-onde-comecar.md
+              - edicoes/2026/atividades/contribuindo-para-o-open-source-sendo-uma-pessoa-comum.md
+              - edicoes/2026/atividades/desenvolvendo-sistemas-em-lingua-portuguesa-venha-conhecer.md
+              - edicoes/2026/atividades/github-opensource-e-comunidades.md
+              - edicoes/2026/atividades/maintaine-rs-os-herois-invisiveis-do-open-source.md
+              - edicoes/2026/atividades/o-valor-do-portfolio-na-era-da-ai.md
+              - edicoes/2026/atividades/open-source-vs-ia-um-panorama-das-politicas-de-engajamento-atuais.md
+              - edicoes/2026/atividades/para-onde-vai-o-software-livre.md
+              - edicoes/2026/atividades/software-livre-ontem-e-hoje.md
+              - edicoes/2026/atividades/tecnologias-abertas-para-politicas-publicas.md
+          - Pessoas Palestrantes e Painelistas:
+              - edicoes/2026/pessoas/anna-e-so.md
+              - edicoes/2026/pessoas/camis-moreira.md
+              - edicoes/2026/pessoas/carla-rocha.md
+              - edicoes/2026/pessoas/carlos-becker.md
+              - edicoes/2026/pessoas/cuducos.md
+              - edicoes/2026/pessoas/eduardo-oliveira.md
+              - edicoes/2026/pessoas/felipython.md
+              - edicoes/2026/pessoas/hisham-muhammad.md
+              - edicoes/2026/pessoas/maite.md
+              - edicoes/2026/pessoas/mario-sergio.md
+              - edicoes/2026/pessoas/marylia-gutierrez.md
+              - edicoes/2026/pessoas/mateus-roveda.md
+              - edicoes/2026/pessoas/melissawm.md
+              - edicoes/2026/pessoas/mr-enderson.md
+              - edicoes/2026/pessoas/nick-vidal.md
+              - edicoes/2026/pessoas/pachi-parra.md
+              - edicoes/2026/pessoas/paloma-oliveira.md
+              - edicoes/2026/pessoas/yaso.md
+          - Proposta de Patrocínio: edicoes/2026/proposta_patrocinio.md
+          - NOSS 2026 (English): edicoes/2026/en.md
+          - Sponsorship Proposal: edicoes/2026/sponsorship_proposal.md
+
+  - Blog: blog/index.md
+
+  - Contato: contato.md
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/images/logo_amarelo_e_creme.png
+  favicon: assets/images/icone_preto.png
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+extra:
+  hide:
+    - title
+
+extra_css:
+  - assets/stylesheets/extra.css

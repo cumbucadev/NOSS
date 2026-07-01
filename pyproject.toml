@@ -1,0 +1,53 @@
+[project]
+name = "noss"
+version = "0.1.0"
+description = "Portal de conhecimento sobre o ecossistema brasileiro de Software Livre e de Código Aberto (FLOSS)."
+authors = [
+    { name = "NOSS", email = "opensource@cumbuca.dev" }
+]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+requires-python = ">=3.13,<4"
+
+dependencies = [
+    "mkdocs>=1.6.1,<2.0.0",
+    "mkdocs-material>=9.7.1,<10.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "mkdocs-awesome-pages-plugin>=2.10.1,<3.0.0",
+    "mkdocs-git-revision-date-localized-plugin>=1.4.7,<2.0.0",
+    "mkdocs-minify-plugin>=0.8.0,<1.0.0",
+    "mkdocs-redirects>=1.2.2,<2.0.0",
+    "mkdocs-glightbox>=0.5.1,<1.0.0",
+    "pymdown-extensions>=10.16.1,<11.0.0",
+    "pre-commit>=4.2.0,<5.0.0",
+    "ruff>=0.12.0,<1.0.0",
+]
+
+[project.urls]
+Homepage = "https://noss.cumbuca.dev"
+Repository = "https://github.com/cumbucadev/noss"
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 88
+extend-exclude = [
+    ".git",
+    ".venv",
+    "__pycache__",
+    "site",
+]
+
+[tool.ruff.lint]
+extend-select = ["I"]
+
+[tool.ruff.format]
+line-ending = "lf"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

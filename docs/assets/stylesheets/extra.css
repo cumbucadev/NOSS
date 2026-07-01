@@ -1,0 +1,68 @@
+:root {
+  --noss-azul: #1D57A5;
+  --noss-verde: #007A33;
+  --noss-amarelo: #FF9E1B;
+  --noss-branco: #FFFFFF;
+  --noss-preto: #000000;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--noss-verde);
+  --md-primary-bg-color: var(--noss-branco);
+  --md-accent-fg-color: var(--noss-verde);
+  --md-typeset-a-color: var(--noss-verde);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--noss-verde);
+  --md-primary-bg-color: var(--noss-branco);
+  --md-accent-fg-color: var(--noss-amarelo);
+  --md-default-bg-color: var(--noss-preto);
+  --md-typeset-a-color: var(--noss-amarelo);
+}
+
+.md-button,
+.md-button--primary {
+  border-color: var(--noss-verde);
+}
+
+.md-button--primary {
+  background-color: var(--noss-verde);
+  color: var(--noss-azul);
+}
+
+.md-tabs__item--active > .md-tabs__link {
+    color: var(--noss-amarelo) !important;
+    opacity: 1;
+}
+
+.md-tabs__link:is(:hover, :focus) {
+    color: var(--noss-amarelo);
+}
+
+.md-header__title .md-header__topic:first-child {
+    display: none;
+}
+
+
+[data-md-color-scheme="default"] .logo-dark {
+    display: none;
+}
+[data-md-color-scheme="default"] .logo-light {
+    display: block;
+}
+
+[data-md-color-scheme="slate"] .logo-light {
+    display: none;
+}
+
+[data-md-color-scheme="slate"] .logo-dark {
+    display: block;
+}
+
+.edicao-2026-participant-photo {
+  width: 100px;
+    height: 100px !important;
+    object-fit: cover;
+    object-position: center !important;
+}
