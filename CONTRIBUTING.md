@@ -2,8 +2,6 @@
 
 #### Looking for the [English Version](/CONTRIBUTING_EN.md)?
 
-
-
 Obrigado por considerar contribuir com o NOSS — Nosso Open Source Summit.
 
 Este é um projeto aberto, construído coletivamente. Toda contribuição é bem-vinda.
@@ -95,9 +93,22 @@ Use nomes descritivos:
 * escreva de forma clara
 * revise antes de enviar
 
+### 5. Visualize e valide a documentação
+
+Se você alterar arquivos em `docs/` ou a configuração do MkDocs, é possível conferir o resultado localmente:
+
+* instale as dependências com `make install`
+* inicie o servidor local com `make serve`
+* abra o site em `http://127.0.0.1:8000`
+* gere a versão estática com `make build`
+* verifique formatação e lint com `make check`
+* limpe arquivos gerados com `make clean`
+
+Esses comandos usam o MkDocs e o ambiente configurado pelo `uv`, que está definido no Makefile e no arquivo `pyproject.toml`.
+
 ---
 
-### 5. Abra um Pull Request
+### 6. Abra um Pull Request
 
 Descreva:
 
