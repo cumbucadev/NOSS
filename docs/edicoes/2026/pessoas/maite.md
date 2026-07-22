@@ -1,6 +1,6 @@
 # Maitê
 
-<img src="/assets/images/edicoes/2026/participantes/maite.jpg" alt="Maitê" width="180"/>
+<img src="../../../assets/images/edicoes/2026/participantes/maite.jpg" alt="Maitê" width="180"/>
 
 ## 📌 Informações
 
