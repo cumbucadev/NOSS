@@ -14,4 +14,4 @@ Marylia é uma Engenheira de Software na Grafana Labs, com foco em Observabilida
 
 ## 🎤 Atividades
 
-- A definir
+- [Open Source em Escala](../atividades/open-source-em-escala.md)
