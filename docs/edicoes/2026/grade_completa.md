@@ -69,9 +69,9 @@ Trilha introdutória para pessoas em início de jornada:
     <tr>
       <td align="center"><b>12:30<br>–<br>13:30</b></td>
       <td align="center" colspan="2">
-        <sup><b>🚀 Apresente seu Projeto!</b></sup><br>
+        <sup><b>🚀 <a href="./atividades/apresente-seu-projeto.md">Apresente seu Projeto!</a></b></sup><br>
         <p>
-          <a href="./pessoas/talita-rossari.md">Talita Rossari</a> e <a href="./pessoas/belisa-arnhold.md">Belisa Arnhold</a> / <a href="./pessoas/danrley-pereira.md">Danrley Pereira</a> / <a href="./pessoas/henderson-matsuura-sanches.md">Henderson Matsuura Sanches</a> / <a href="./pessoas/holmes.md">Holmes</a> / <a href="./pessoas/camis-moreira.md">Camis Moreira</a>
+          <a href="./pessoas/talita-rossari.md">Talita Rossari</a> e <a href="./pessoas/belisa-arnhold.md">Belisa Arnhold</a> / <a href="./pessoas/danrley-pereira.md">Danrley Pereira</a> / <a href="./pessoas/henderson-matsuura-sanches.md">Henderson Matsuura Sanches</a> / <a href="./pessoas/holmes.md">Holmes</a> / <a href="./pessoas/camis-moreira.md">camis moreira</a>
         </p>
       </td>
     </tr>
