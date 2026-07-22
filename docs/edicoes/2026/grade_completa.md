@@ -40,9 +40,9 @@ Trilha introdutória para pessoas em início de jornada:
       <td align="center"><b>10:00<br>–<br>11:00</b></td>
       <td colspan="2" align="center">
         <sup><b>KEYNOTE</b></sup><br>
-        <a href="../pessoas/marylia-gutierrez"><b>Marylia Gutierrez</b></a><br>
-        <a href="../atividades/open-source-em-escala">Open Source em Escala</a>
-      </td.>
+        <a href="./pessoas/marylia-gutierrez.md"><b>Marylia Gutierrez</b></a><br>
+        <a href="./atividades/open-source-em-escala.md">Open Source em Escala</a>
+      </td>
     </tr>
     <tr>
       <td align="center"><b>11:00<br>–<br>11:40</b></td>
