@@ -1,6 +1,6 @@
 # Camis Moreira
 
-<img src="/assets/images/edicoes/2026/participantes/camis-moreira.jpeg" alt="Camis Moreira" width="280"/>
+<img src="../../../assets/images/edicoes/2026/participantes/camis-moreira.jpeg" alt="Camis Moreira" width="280"/>
 
 ## 📌 Informações
 
