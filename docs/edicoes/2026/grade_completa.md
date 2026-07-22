@@ -41,6 +41,7 @@ Trilha introdutória para pessoas em início de jornada:
       <td colspan="2" align="center">
         <sup><b>KEYNOTE</b></sup><br>
         <a href="../pessoas/marylia-gutierrez"><b>Marylia Gutierrez</b></a><br>
+        <a href="../atividades/open-source-em-escala">Open Source em Escala</a>
       </td.>
     </tr>
     <tr>
