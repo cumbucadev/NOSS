@@ -51,19 +51,19 @@ Trilha introdutória para pessoas em início de jornada:
         <a href="./atividades/maintaine-rs-os-herois-invisiveis-do-open-source.md">Maintaine.rs: Os heróis invisíveis do Open Source</a>
       </td>
       <td align="center">
-        <a href="../pessoas/mr-enderson"><b>Mr Enderson</b></a><br>
-        <a href="../atividades/github-opensource-e-comunidades">GitHub, OpenSource e Comunidades</a>
+        <a href="./pessoas/mr-enderson.md"><b>Mr Enderson</b></a><br>
+        <a href="./atividades/github-opensource-e-comunidades.md">GitHub, OpenSource e Comunidades</a>
       </td>
     </tr>
     <tr>
       <td align="center"><b>11:40<br>–<br>12:20</b></td>
       <td align="center">
-        <a href="../pessoas/carlos-becker"><b>Carlos Becker</b></a><br>
-        <a href="../atividades/o-valor-do-portfolio-na-era-da-ai">O valor do portfólio na era da AI</a>
+        <a href="./pessoas/carlos-becker.md"><b>Carlos Becker</b></a><br>
+        <a href="./atividades/o-valor-do-portfolio-na-era-da-ai.md">O valor do portfólio na era da AI</a>
       </td>
       <td align="center">
-        <a href="../pessoas/camis-moreira"><b>Camis Moreira</b></a><br>
-        <a href="../atividades/comunidade-e-diversidade-uma-combinacao-obrigatoria">Comunidade e Diversidade: uma combinação obrigatória</a>
+        <a href="./pessoas/camis-moreira.md"><b>Camis Moreira</b></a><br>
+        <a href="./atividades/comunidade-e-diversidade-uma-combinacao-obrigatoria.md">Comunidade e Diversidade: uma combinação obrigatória</a>
       </td>
     </tr>
     <tr>
