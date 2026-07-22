@@ -76,62 +76,62 @@ Trilha introdutória para pessoas em início de jornada:
     <tr>
       <td align="center"><b>13:30<br>–<br>14:10</b></td>
       <td align="center">
-        <a href="../pessoas/maite"><b>Maitê</b></a><br>
-        <a href="../atividades/desenvolvendo-sistemas-em-lingua-portuguesa-venha-conhecer">Desenvolvendo Sistemas em Língua Portuguesa - Venha conhecer!</a>
+        <a href="./pessoas/maite.md"><b>Maitê</b></a><br>
+        <a href="./atividades/desenvolvendo-sistemas-em-lingua-portuguesa-venha-conhecer.md">Desenvolvendo Sistemas em Língua Portuguesa - Venha conhecer!</a>
       </td>
       <td align="center">
-        <a href="../pessoas/pachi-parra"><b>Pachi Parra</b></a><br>
-        <a href="../atividades/contribuindo-com-open-source-por-onde-comecar">Contribuindo com Open Source: por onde começar?</a>
+        <a href="./pessoas/pachi-parra.md"><b>Pachi Parra</b></a><br>
+        <a href="./atividades/contribuindo-com-open-source-por-onde-comecar.md">Contribuindo com Open Source: por onde começar?</a>
       </td>
     </tr>
     <tr>
       <td align="center"><b>14:10<br>–<br>15:00</b></td>
       <td align="center">
-        <a href="../pessoas/hisham-muhammad"><b>Hisham Muhammad</b></a><br>
-        <a href="../atividades/software-livre-ontem-e-hoje">Software livre, ontem e hoje</a>
+        <a href="./pessoas/hisham-muhammad.md"><b>Hisham Muhammad</b></a><br>
+        <a href="./atividades/software-livre-ontem-e-hoje.md">Software livre, ontem e hoje</a>
       </td>
       <td align="center">
-        <a href="../pessoas/felipython"><b>FeliPython</b></a><br>
-        <a href="../atividades/como-contribuir-open-source-mudou-a-minha-vida">Como contribuir open source mudou a minha vida</a>
+        <a href="./pessoas/felipython.md"><b>FeliPython</b></a><br>
+        <a href="./atividades/como-contribuir-open-source-mudou-a-minha-vida.md">Como contribuir open source mudou a minha vida</a>
       </td>
     </tr>
     <tr>
       <td align="center"><b>15:00<br>–<br>16:00</b></td>
       <td align="center" colspan="2">
         <sup><b>KEYNOTE</b></sup><br>
-        <a href="../pessoas/paloma-oliveira"><b>Paloma Oliveira</b></a><br>
-        <a href="../atividades/a-infraestrutura-digital-e-global-e-o-brasil-faz-parte-dela">A infraestrutura digital é global, e o Brasil faz parte dela</a>
+        <a href="./pessoas/paloma-oliveira.md"><b>Paloma Oliveira</b></a><br>
+        <a href="./atividades/a-infraestrutura-digital-e-global-e-o-brasil-faz-parte-dela.md">A infraestrutura digital é global, e o Brasil faz parte dela</a>
       </td>
     </tr>
     <tr>
       <td align="center"><b>16:00<br>–<br>16:40</b></td>
       <td align="center">
-        <a href="../pessoas/melissawm"><b>MelissaWM</b></a><br>
-        <a href="../atividades/open-source-vs-ia-um-panorama-das-politicas-de-engajamento-atuais">Open source vs. IA: Um panorama das políticas de engajamento atuais</a>
+        <a href="./pessoas/melissawm.md"><b>MelissaWM</b></a><br>
+        <a href="./atividades/open-source-vs-ia-um-panorama-das-politicas-de-engajamento-atuais.md">Open source vs. IA: Um panorama das políticas de engajamento atuais</a>
       </td>
       <td align="center">
-        <a href="../pessoas/mateus-roveda"><b>Mateus Roveda</b></a><br>
-        <a href="../atividades/conhecimento-livre-como-a-universidade-brasileira-livre-surgiu-e-como-posso-contribuir">Conhecimento livre: como a Universidade Brasileira Livre surgiu e como posso contribuir</a>
+        <a href="./pessoas/mateus-roveda.md"><b>Mateus Roveda</b></a><br>
+        <a href="./atividades/conhecimento-livre-como-a-universidade-brasileira-livre-surgiu-e-como-posso-contribuir.md">Conhecimento livre: como a Universidade Brasileira Livre surgiu e como posso contribuir</a>
       </td>
     </tr>
     <tr>
       <td align="center"><b>16:40<br>–<br>17:20</b></td>
       <td align="center">
-        <a href="../pessoas/anna-e-so"><b>Anna e Só</b></a><br>
-        <a href="../atividades/para-onde-vai-o-software-livre">Para onde vai o software livre?</a>
+        <a href="./pessoas/anna-e-so.md"><b>Anna e Só</b></a><br>
+        <a href="./atividades/para-onde-vai-o-software-livre.md">Para onde vai o software livre?</a>
       </td>
       <td align="center">
-        <a href="../pessoas/eduardo-oliveira"><b>Eduardo Oliveira</b></a><br>
-        <a href="../atividades/contribuindo-para-o-open-source-sendo-uma-pessoa-comum">Contribuindo para o Open-Source sendo uma pessoa comum</a>
+        <a href="./pessoas/eduardo-oliveira.md"><b>Eduardo Oliveira</b></a><br>
+        <a href="./atividades/contribuindo-para-o-open-source-sendo-uma-pessoa-comum.md">Contribuindo para o Open-Source sendo uma pessoa comum</a>
       </td>
     </tr>
     <tr>
       <td align="center"><b>17:30<br>–<br>18:20</b></td>
       <td align="center" colspan="2">
         <sup><b>PAINEL</b></sup><br>
-        <a href="./atividades/tecnologias-abertas-para-politicas-publicas"><b>Tecnologias abertas para políticas públicas</b></a><br>
-        <a href="../pessoas/mario-sergio">Mário Sérgio</a> · <a href="../pessoas/carla-rocha">Carla Rocha</a> · <a href="../.pessoas/cuducos">Cuducos</a> · <a href="../pessoas/ya.so">Yaso</a>
-      </td.>
+        <a href="./atividades/tecnologias-abertas-para-politicas-publicas.md"><b>Tecnologias abertas para políticas públicas</b></a><br>
+        <a href="./pessoas/mario-sergio.md">Mário Sérgio</a> · <a href="./pessoas/carla-rocha.md">Carla Rocha</a> · <a href="./pessoas/cuducos.md">Cuducos</a> · <a href="./pessoas/yaso.md">Yaso</a>
+      </td>
     </tr>
     <tr>
       <td align="center"><b>18:20 <br>–<br> 18:30</b></td>
