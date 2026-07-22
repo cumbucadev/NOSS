@@ -70,7 +70,9 @@ Trilha introdutória para pessoas em início de jornada:
       <td align="center"><b>12:30<br>–<br>13:30</b></td>
       <td align="center" colspan="2">
         <sup><b>🚀 Apresente seu Projeto!</b></sup><br>
-        <p><a href="./pessoas/talita-rossari.md">Talita Rossari</a> e Belisa Arnhold / Danrley Pereira / Henderson Matsuura Sanches / Holmes / camis moreira</p>
+        <p>
+          <a href="./pessoas/talita-rossari.md">Talita Rossari</a> e <a href="./pessoas/belisa-arnhold.md">Belisa Arnhold</a> / <a href="./pessoas/danrley-pereira.md">Danrley Pereira</a> / <a href="./pessoas/henderson-matsuura-sanches.md">Henderson Matsuura Sanches</a> / <a href="./pessoas/holmes.md">Holmes</a> / <a href="./pessoas/camis-moreira.md">Camis Moreira</a>
+        </p>
       </td>
     </tr>
     <tr>
