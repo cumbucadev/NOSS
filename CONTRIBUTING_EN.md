@@ -143,7 +143,7 @@ This project follows a Code of Conduct.
 
 Please read it before contributing:
 
-👉 [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md)
+👉 [CODE_OF_CONDUCT_EN.md](/CODE_OF_CONDUCT_EN.md)
 
 ---
 
