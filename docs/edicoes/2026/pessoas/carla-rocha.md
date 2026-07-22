@@ -1,6 +1,6 @@
 # Carla Rocha
 
-<img src="/assets/images/edicoes/2026/participantes/carla-rocha.jpg" alt="Carla Rocha" width="280"/>
+<img src="../../../assets/images/edicoes/2026/participantes/carla-rocha.jpg" alt="Carla Rocha" width="280"/>
 
 ## 📌 Informações
 
