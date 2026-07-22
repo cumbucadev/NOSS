@@ -47,8 +47,8 @@ Trilha introdutória para pessoas em início de jornada:
     <tr>
       <td align="center"><b>11:00<br>–<br>11:40</b></td>
       <td align="center">
-        <a href="../pessoas/nick-vidal"><b>Nick Vidal</b></a><br>
-        <a href="../atividades/maintaine-rs-os-herois-invisiveis-do-open-source">Maintaine.rs: Os heróis invisíveis do Open Source</a>
+        <a href="./pessoas/nick-vidal.md"><b>Nick Vidal</b></a><br>
+        <a href="./atividades/maintaine-rs-os-herois-invisiveis-do-open-source.md">Maintaine.rs: Os heróis invisíveis do Open Source</a>
       </td>
       <td align="center">
         <a href="../pessoas/mr-enderson"><b>Mr Enderson</b></a><br>
