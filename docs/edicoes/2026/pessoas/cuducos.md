@@ -1,6 +1,6 @@
 # Cuducos
 
-<img src="/assets/images/edicoes/2026/participantes/cuducos.jpg" alt="Cuducos" width="300"/>
+<img src="../../../assets/images/edicoes/2026/participantes/cuducos.jpg" alt="Cuducos" width="300"/>
 
 ## 📌 Informações
 
