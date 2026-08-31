@@ -1,6 +1,6 @@
 # FeliPython
 
-<img src="/assets/images/edicoes/2026/participantes/felipython.jpg" alt="FeliPython" width="380"/>
+<img src="../../../assets/images/edicoes/2026/participantes/felipython.jpg" alt="FeliPython" width="380"/>
 
 ## 📌 Informações
 

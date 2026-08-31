@@ -27,7 +27,7 @@ As organizações parceiras do NOSS somam comunidades, projetos e iniciativas qu
     <img
       alt="Logo OSI"
       src="https://i0.wp.com/opensource.org/wp-content/uploads/2023/03/cropped-OSI-horizontal-large.png?fit=640%2C229&quality=80&ssl=1"
-      width="70%"
+      width="50%"
     >
   </picture>
 </div>
@@ -54,7 +54,7 @@ O NOSS contará com participação confirmada de representante da OSI na program
     <img
       alt="Logo UBL"
       src="https://github.com/Universidade-Livre/imagens/blob/main/logos/PNG/Logo-sem-fundo-padr%C3%A3o/LOGO-UBL-SEM-FUNDO-09.png?raw=true"
-      width="70%"
+      width="50%"
     >
   </picture>
 </div>
@@ -75,8 +75,8 @@ O NOSS contará com participação confirmada de representante da UBL na program
 <div align="center">
     <img
       alt="Logo Python Floripa"
-      src="../../../assets/images/edicoes/2026/python_floripa.jpeg"
-      width="60%"
+      src="../../assets/images/edicoes/2026/python_floripa.jpeg"
+      width="50%"
     >
 </div>
 <br>
@@ -94,21 +94,11 @@ No NOSS, a Python Floripa participará com uma Palestra ao vivo no formato híbr
 ## Tech Floripa
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="../../../assets/images/edicoes/2026/tech_floripa_black_background.jpeg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="../../../assets/images/edicoes/2026/tech_floripa_white_background.jpeg"
-    >
     <img
       alt="Logo Tech Floripa"
-      src="../../../assets/images/edicoes/2026/tech_floripa_white_background.jpeg"
+      src="../../assets/images/edicoes/2026/tech_floripa_white_background.jpeg"
       width="50%"
     >
-  </picture>
 </div>
 <br>
 
@@ -127,8 +117,8 @@ No NOSS, a Tech Floripa participa da gestão do evento, atuando na organização
 <div align="center">
     <img
       alt="Logo ProGirls"
-      src="../../../assets/images/edicoes/2026/logo_progirls.jpeg"
-      width="70%"
+      src="../../assets/images/edicoes/2026/logo_progirls.jpeg"
+      width="50%"
     >
 </div>
 <br>
@@ -160,7 +150,8 @@ O NOSS contará com a parceria de divulgação e engajamento da ProGirls.
 <div align="center">
     <img
       alt="Logo Portera Tech"
-      src="../../../assets/images/edicoes/2026/portera-tech.png"
+      src="../../assets/images/edicoes/2026/portera-tech.png"
+      width="50%"
     />
 </div>
 <br>

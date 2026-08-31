@@ -5,7 +5,7 @@
 ## 📌 Informações
 
 - **Pronomes:** ela/dela - she/her, elu/delu - they/them
-- **LinkedIn:** https://linkedin.com/annaeso
+- **LinkedIn:** https://www.linkedin.com/in/annaeso/
 - **GitHub:** https://github.com/contraexemplo
 
 ## 🧠 Bio

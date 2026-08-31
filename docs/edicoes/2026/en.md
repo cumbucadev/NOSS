@@ -1,13 +1,13 @@
 <div class="noss-logo">
   <img
     class="logo-light"
-    src="/assets/images/logo_preto.png"
+    src="../../assets/images/logo_preto.png"
     alt="NOSS"
   />
 
   <img
     class="logo-dark"
-    src="/assets/images/logo_amarelo_e_creme.png"
+    src="../../assets/images/logo_amarelo_e_creme.png"
     alt="NOSS"
   />
 </div>

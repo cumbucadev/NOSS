@@ -22,7 +22,7 @@ O Brasil já constrói open source. Agora é hora de criar e fortalecer os nós.
 
 <div>
 
-### [NOSS 2026](/2026/README.md) - 30 de maio - Evento Remoto - [Youtube/@CumbucaDev](https://www.youtube.com/watch?v=2GLyGSolizQ)
+### [NOSS 2026](./README.md) - 30 de maio - Evento Remoto - [Youtube/@CumbucaDev](https://www.youtube.com/watch?v=2GLyGSolizQ)
 
 </div>
 
@@ -43,7 +43,13 @@ O Brasil já constrói open source. Agora é hora de criar e fortalecer os nós.
 - [Referências](#-referências)
 - [Diversidade e acesso](#-diversidade-e-acesso)
 - [Estrutura aberta](#-estrutura-aberta)
+- [Estrutura do repositório](#-estrutura-do-repositório)
+- [Sustentabilidade](#-sustentabilidade)
 - [Por que NOSS](#-por-que-noss)
+- [Contato](#-contato)
+- [Contribuindo](#-contribuindo)
+- [Discussões](#-discussões)
+- [Pessoas que contribuem](#%EF%B8%8F-pessoas-que-contribuem)
 
 ---
 
@@ -231,7 +237,7 @@ Qualquer pessoa ou comunidade pode adaptar esse modelo e construir novas ediçõ
 ```
 
 👉 Detalhes da edição atual:
-[/2026/README.md](2026/README.md)
+[./docs/edicoes/2026/index.md](./docs/edicoes/2026/index.md)
 
 ---
 
