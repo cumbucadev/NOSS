@@ -41,6 +41,9 @@ Sugestões de melhoria para a próxima edição:
 - Formato híbrido.
 - Formalizar com certa antecedência sobre o aceite da palestra.
 - Substituição do formato de painel por palestras, pois painel permite pouco aprofundamento.
+- O forms do Google utilizado pelo evento para feedback e submissão de palestras dificulta o processo de "desgarrar" das big techs. Sugestão: https://www.jotform.com/login/
+- Há pessoas que preferem que não haja foco no LinkedIn como única plataforma para envio do histórico profissional/educacional, já que preferem não levar seus dados para lá.
+- O NOSS também poderia trazer outras possibilidades de plataformas para código aberto (como Tangled ou Codeberg) e não focar somente no GitHub no formulário de submissão.
 
 ---
 
@@ -103,3 +106,4 @@ Temas sugeridos para a próxima edição:
 - Como facilitar a barreira do idioma em projetos Open Source
 - Infra
 - Hospedagem de projetos próprios e protocolos abertos que permitem isso
+
